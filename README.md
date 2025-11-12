@@ -45,7 +45,7 @@ This project showcases how computer vision and automation can work together in a
 | Data Handling        | NumPy, Pandas         |
 | Image Processing     | OpenCV, Pillow        |
 | Audio Playback       | Python-VLC / Playsound|
-| Environment          | Jupyter Notebook / VS Code |
+| Environment          | Google Colab          |
 
 ---
 
