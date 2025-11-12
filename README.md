@@ -1,4 +1,4 @@
-# Image-Classifiaction-Song-Player
+# Image-Classification-Song-Player
 
 ## Overview
 
