@@ -2,7 +2,7 @@
 
 ## Overview
 
-**IMAGE-CLASSIFICATION-SONG-PLAYER** is a Python-based project that combines **Image Classification** and **Music Playback Automation** using **Machine Learning**.  
+**Image Classification-Song-Player** is a Python-based project that combines **Image Classification** and **Music Playback Automation** using **Machine Learning**.  
 The model classifies input images into predefined categories and automatically plays a specific **song** corresponding to the detected class.
 
 This project showcases how computer vision and automation can work together in a fun and creative way — classifying images and responding with audio feedback.
