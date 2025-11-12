@@ -121,13 +121,12 @@ IMAGE-CLASSIFICATION-SONG-PLAYER/
 ├── requirements.txt
 └── README.md
 
-
 ---
-
-## Author
-Developed By Harsh Arora
 
 ## License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it with attribution.
+
+## Author
+Developed By Harsh Arora
 
