@@ -103,23 +103,24 @@ Each folder contains multiple training images for its class.
 ## Directory Structure
 IMAGE-CLASSIFICATION-SONG-PLAYER/
 ├── data/
-│ ├── Folder1/ # Training images for Class 1
-│ └── Folder2/ # Training images for Class 2
+│   ├── Folder1/                 # Training images for Class 1
+│   └── Folder2/                 # Training images for Class 2
 │
 ├── models/
-│ └── classifier.h5 # Trained CNN model
+│   └── classifier.h5            # Trained CNN model
 │
 ├── songs/
-│ ├── class1_song.mp3 # Song for Class 1
-│ └── class2_song.mp3 # Song for Class 2
+│   ├── class1_song.mp3          # Song for Class 1
+│   └── class2_song.mp3          # Song for Class 2
 │
 ├── src/
-│ ├── train.py # Model training script
-│ ├── infer_and_play.py # Testing + song playback
-│ ├── utils.py # Helper functions
+│   ├── train.py                 # Model training script
+│   ├── infer_and_play.py        # Predict + song playback
+│   └── utils.py                 # Helper utilities
 │
 ├── requirements.txt
 └── README.md
+
 
 ---
 
